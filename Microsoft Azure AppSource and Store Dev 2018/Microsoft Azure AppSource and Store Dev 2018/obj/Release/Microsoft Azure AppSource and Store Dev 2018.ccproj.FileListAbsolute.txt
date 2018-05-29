@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\Microsoft Azure AppSource and Store Dev 2018\Microsoft Azure AppSource and Store Dev 2018\bin\Release\ServiceConfiguration.cscfg
+C:\Users\Administrator\source\repos\Microsoft Azure AppSource and Store Dev 2018\Microsoft Azure AppSource and Store Dev 2018\bin\Release\ServiceDefinition.csdef

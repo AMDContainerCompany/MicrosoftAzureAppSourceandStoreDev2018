@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Microsoft Azure AppSource and Store Dev 2018", "Microsoft Azure AppSource and Store Dev 2018\Microsoft Azure AppSource and Store Dev 2018.ccproj", "{BB40D52B-5F7D-42D5-9D51-C07817794359}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WorkerRoleWithSBQueue1", "WorkerRoleWithSBQueue1\WorkerRoleWithSBQueue1.vbproj", "{B8A5BC33-693F-419D-9BB7-93CBB5BC2DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB40D52B-5F7D-42D5-9D51-C07817794359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB40D52B-5F7D-42D5-9D51-C07817794359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB40D52B-5F7D-42D5-9D51-C07817794359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB40D52B-5F7D-42D5-9D51-C07817794359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A5BC33-693F-419D-9BB7-93CBB5BC2DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A5BC33-693F-419D-9BB7-93CBB5BC2DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A5BC33-693F-419D-9BB7-93CBB5BC2DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A5BC33-693F-419D-9BB7-93CBB5BC2DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53FB0D7E-238D-4618-8367-871873CBC090}
+	EndGlobalSection
+EndGlobal

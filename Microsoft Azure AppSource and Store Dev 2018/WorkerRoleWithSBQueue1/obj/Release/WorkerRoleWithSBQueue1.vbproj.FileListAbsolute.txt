@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\Microsoft Azure AppSource and Store Dev 2018\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Microsoft Azure AppSource and Store Dev 2018\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.Resources.resources
+C:\Users\Administrator\source\repos\Microsoft Azure AppSource and Store Dev 2018\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Microsoft Azure AppSource and Store Dev 2018\WorkerRoleWithSBQueue1\obj\Release\WorkerRoleWithSBQueue1.vbproj.CoreCompileInputs.cache
